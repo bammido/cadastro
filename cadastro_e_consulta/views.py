@@ -6,3 +6,4 @@ from cadastro_e_consulta.models import Usuarrio
 class UsuariosViewset(viewsets.ModelViewSet):
     queryset = Usuarrio.objects.all()
     serializer_class = UsuariosSDerializer
+    
