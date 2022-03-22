@@ -1,10 +1,12 @@
-#api para cadastro de usuarios
+# api para cadastro de usuarios
 
-##Ressalva:
+## Ressalva:
 
-Meu primeiro projeto em django, para ser sincero nunca toquei nessa lib. Eu tive que fazer *muita* pesquisa na documentção e assistir a *muitos* tutoriais para poder criar a api. Isso foi tudo que eu consegui fazer nesse tempo sem conhecimento prévio da lib.
+Meu primeiro projeto em django, para ser sincero nunca toquei nessa lib. Eu tive que fazer **muita** pesquisa na documentção e assistir a **muitos** tutoriais para poder criar a api. Isso foi tudo que eu consegui fazer nesse tempo sem conhecimento prévio da lib.
 
-##Sobre api:
+## Sobre api:
+
+### Para iniciar:
 
 Primeiramente inicie a venv 
     win: venv\Scripts\activate.bat
@@ -15,6 +17,8 @@ Depois inicar o servidor:
     lixux:python manage.py runserver
 
 E por fim abrir a porta padrão do localhost: http://127.0.0.1:8000/
+
+### Funcionalidades:
 
 Basicamente é possível cadastrar usuários no banco de dados usando: login, data de nacsimento e senha (sendo esta opcional). Caso a senha não seja inserida, a api gerará uma senha personalizada única. Os logins também são únicos. Também é possiível cadastrar usando algúm programa que mande rquisiçaõ de cadastro em json, desde que esteja de acordo com os requisitos de cadastro.
 
