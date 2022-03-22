@@ -2,7 +2,9 @@
 
 ## Ressalva:
 
-Meu primeiro projeto em django, para ser sincero nunca toquei nessa lib. Eu tive que fazer **muita** pesquisa na documentção e assistir a **muitos** tutoriais para poder criar a api. Isso foi tudo que eu consegui fazer nesse tempo sem conhecimento prévio da lib.
+Meu primeiro projeto em django, para ser sincero nunca toquei nessa lib. Eu tive que fazer **muita** pesquisa na documentção e assistir a **muitos** tutoriais para poder criar a api. Isso foi tudo que eu consegui fazer nesse tempo sem conhecimento prévio da lib. 
+
+A api ficou um tanto quanto simples, pois tive que aprender enquanto a criava, espero pelo menos ter demonstrado minha iniciativa e vontade de me desenvolver. com certza com tempo e mais intrução teria entregado mais ainda.
 
 ## Sobre api:
 
