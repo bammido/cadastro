@@ -37,7 +37,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'cadastro_e_consulta'
+   
+    #LOCAL
+    'cadastro_e_consulta',
+
+    #3rd Party
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
